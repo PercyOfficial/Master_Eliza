@@ -149,9 +149,9 @@ def start(update, context):
             buttons = InlineKeyboardMarkup(
                 [
                 [InlineKeyboardButton(text="💭Language💭 ", callback_data="main_setlang"), InlineKeyboardButton(text="⚙️Connect Group⚙️", callback_data="main_connect")],
-                [InlineKeyboardButton(text="💠Support Group💠", url="https://t.me/slpcgame"), InlineKeyboardButton(text="🔰⭕️Update Channel⭕️🔰", url="https://t.me/slpcgames")],
-                [InlineKeyboardButton(text="🌐Help🌐", url="https://t.me/{}?start=help".format(context.bot.username)), InlineKeyboardButton(text="💖About Developer💝", url="https://slcreedtest.000webhostapp.com")],
-                [InlineKeyboardButton(text="🎉Add me to your group🎉", url="https://t.me/{}?startgroup=new".format(context.bot.username))]])
+                [InlineKeyboardButton(text="🚂join Hogwarts🏰", url="https://t.me/TheRex2k20"), InlineKeyboardButton(text="🏰🚂Hogwarts Channel🚂🏰", url="https://t.me/HogwartsPlus")],
+                [InlineKeyboardButton(text="🌐Help🌐", url="https://t.me/{}?start=help".format(context.bot.username)), InlineKeyboardButton(text="💖About Developer💝", url="https://t.me/percy_jackson_4")],
+                [InlineKeyboardButton(text="❤💚Sorting Hat💙💛", url="https://www.wizardingworld.com")]])
             update.effective_message.reply_photo(DAISY_IMG,
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(context.bot.first_name), OWNER_ID),
                 disable_web_page_preview=True,
