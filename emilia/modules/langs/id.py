@@ -33,19 +33,11 @@ Available commands are:
 # __main__
 	"Ada yang bisa saya bantu? 😊": "Is there anything I can help? 😊",
 	"start_text": """
-Hi {}, my name is {}! 
+ho ho ho... 👻{}, my name is {}! I'm resident demon in charge of slytherin house 💚
 
-I am a group manager bot created by [my master](tg://user?id={}) based on [Eliza](t.me/SLEliza_bot) written by [Isira Piumath](https://slcreedtest.000webhostapp.com/)
-
-You can find the list of available commands with /help.
-
-If you want to start Chat with me, send 👉 /addchat 👈 and reply to my message to start chatting.
-
-[- The Source codes are available on Github -](https://github.com/masterisira/Master_Eliza)
-©2020 by [ŞŁ PĆ ĢÀMĘŠ®](https://t.me/slpcgames). 
 """,
 	"help_text": """
-Hey there! I'm a powerful group manager powered by My Master.
+Hey there! I'm a powerful group manager powered by Hͪoͦg̾waͣrͬtͭs̾Boͦtͭs̾.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
