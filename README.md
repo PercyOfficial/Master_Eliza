@@ -1,15 +1,24 @@
-# SL Eliza Bot
+# The Hogwarts Ghosts Project
+
+# The new bot is here [@miss_musicybot](https://t.me/miss_musicybot)
+
+### A Modular Group management Bot on Sinhala
+
+<p align = center>
+<img src="https://telegra.ph/file/076cd148a87b9efb4bba3.jpg" width =400 Height=400 ></img>
+</p>
 
 
-![Daisy](https://telegra.ph/file/9c2a6829253a1dccd97b9.png)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hirushakeeth/.git)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/masterisira/Master_Eliza)
 
-A Modular Group management Bot on Sinhala
-
-
+## Discussion Group
+ [hogwarts bots](https://t.me/HogwartsGhosts)
+## Any qustion please contact 
+ [matheesha](https://t.me/percy_jackson_4)
 ## THE EASY WAY to Deploy 
 
 ### Follow the methord carefully
@@ -18,45 +27,52 @@ A Modular Group management Bot on Sinhala
 
 ```
 ```
-2) Create a new bot from @botfather and copy its api token
+2) Get APP_ID and API_HASH from my.telegram.org
+```
 
 ```
-![api](https://telegra.ph/file/38d926dbd695f857efde6.png)
+3) Create a new bot from @botfather and copy its api token
 
 ```
-3) Click Deploy
-```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/masterisira/Master_Eliza)
-```
-4) Give an app name
+![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
 
 ```
-![Appname](https://telegra.ph/file/e564d41d87fedec964a96.png)
+4) Click Deploy
 ```
-5) Paste the Api token copied at token space
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+```
+5) Give an app name
 
 ```
-![Token](https://telegra.ph/file/ffb88846701d7b7b37f94.png)
+![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
 ```
-6) Enter url of the app ass https://#Appneme.herokuapp.com
+36 Paste the Api token copied at token space
 
 ```
-![url](https://telegra.ph/file/7518fd4538f594797b883.jpg)
+![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
 ```
-7)Get App Id and Hash on my.telegram.org
-8)Then Deploy
+7) Enter url of the app ass https://#Appneme.herokuapp.com
 
-9) After Deploy over click manage app
-```
-```
-10) Goto Resources and Turn Worker Emilia to on (by clicking edit)
+8) Enter TL_APP_ID (Get from my.telegram.org 's API Development tools)
+
+9) Enter TL_API_HASH (Get from my.telegram.org 's API Development tools)
 
 ```
-![worker](https://telegra.ph/file/2ea61bed88cb99c507ea6.jpg)
+![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
 ```
-11) Goto Logs and check for the errors
+10)Then Deploy
+
+11) After Deploy over click manage app
 ```
-![logs](https://telegra.ph/file/0a889a75751dad45833f9.jpg)
+```
+12) Goto Resources and Turn Worker Emilia to on (by clicking edit)
+
+```
+![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
+```
+13) Goto Logs and check for the errors
+```
+![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
 ```
 
 
@@ -233,6 +249,10 @@ through the `/stats` command, which is only available to the bot owner.
 </details>
 
 ## Special Credits
+- All [Hogwarts](https://t.me/joinchat/wPEojnfzfdcwMmU1) admins 😍
 
 Thanks to this user:
-- [Inuka Asith](https://github.com/InukaAsith) - The Daisy bot 🇱🇰
+- [Arya Hikari](https://github.com/Aryahikari) - The Emilia Bot Owner
+- [Paul Larsen](https://github.com/PaulSonOfLars) - marie creator, inspiration to do many things
+
+</details>
